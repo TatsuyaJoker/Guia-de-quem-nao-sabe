@@ -1,0 +1,25 @@
+
+Antes da sugestões, complementando o código anterior.
+
+Não coloque sua pasta no .ssh que vai dar errado. Você também pode criar ou somente, copiar um repositório
+já existente de outra pessoa e fazer as alterações ou sugestões. Indo no repositório da pessoa e dando 
+um fork.
+
+Depois de fazer todas as alterações, da um git add .
+Faz o git commit -m "o nome que você quer"
+para estar adicionando tudo, usa o git push origin main pra subir pro repositório.
+
+
+##sugestões##
+
+De modo geral, estou gostando do curso, mas muita coisa fica confusa, principalmente esse do Git.
+Muitas vezes deu erro na criação ou ao decorrer da aula foi um pouco rápido, dificultando no 
+aprendizado do conteúdo, poderia ter comentários da aula que as pessoas poderia colocar suas 
+duvidas referente ao conteúdo, talvez até uma dúvida de um seja de outra pessoa.
+
+E seria legal se a pessoa pudesse fazer um projeto de outras coisas como Java, HTTP, Python, já
+que a ideia é se arriscar.
+
+mas é isso, o curso é brabo!! Eu optei por fazer isso em vez de baixar o projeto, pra me desafiar
+a aprender algo que não foi mostrado no curso e tentar ajudar outras pessoas no processo e uma forma
+diferente de dar o feedback. 
