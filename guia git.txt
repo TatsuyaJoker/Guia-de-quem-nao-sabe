@@ -1,0 +1,42 @@
+Antes de começar a escrever os códigos. Já tenha criado seu repositório no GitHub ou faça uma pasta se tornar seu repositório com o comando mkdir, que cria uma nova pasta 
+e coloca o nome da pasta que você quer que fique lá no arquivo. E para de fato se transformar em um repositório usa o comando Git Init.
+Mas antes de fazer algo no terminal, certifique-se de que depois do 64, tenha o local que você criou ou direcionou.
+
+Outra forma de fazer isso é escrever no terminal e colocar cd e arrastar a pasta que você quer pro terminal e usar o comando Git Init pra se transformar em repositório. 
+
+
+ALGUNS COMANDOS:
+
+Git config --global user.name "Seu nome" #Configura seu nome de usuário no Git.
+
+Git config --global user.email "Seu email" Configura seu email de usuário no Git
+
+Git confi --list #Mostra todas as configurações do Git.
+
+Git init  #Inicializa um repositório.
+
+Git Status #Mostra o estado atual.
+
+Git add #Adiciona arquivos para o commit.
+
+Git commit -m "mensagem" #Escreve uma mensagem sobre algo que você queria.
+
+Git push origin main #Envia para o GitHub.
+
+Git rm <arquivo> #remove um arquivo do repositório e da pasta local.
+
+Git status #Mostra o estado atual do repositório, arquivos modificados não rastreados etc.
+
+Git log #Mostra o histórico de commits do repositório
+
+Git branch #Lista todos os branches locais
+
+Git remote remove origin #Remove o repositório remoto chamado "orign."
+
+Git push -u origin main #Envia os commits do branch principal para o repositório remoto.
+
+Git fetch #Baixa atualizações do repositório remoto para o branch local.
+
+Git stash #Salva temporariamente alterações não commitadas.
+
+Git clone <url> #Clona um repositório para a máquina local.
